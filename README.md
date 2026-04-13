@@ -36,7 +36,8 @@ cd seu-repositorio
 Instale as dependências:
 
 ```bash
-pip install opencv-python ultralytics
+pip install opencv-python 
+pip install ultralytics
 ```
 
 ---
